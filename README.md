@@ -1,2 +1,3 @@
 # curriculum-vitea
-ma boemboe
+template me
+
