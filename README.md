@@ -6,7 +6,7 @@ Email / Website / LinkedIn / GitHub / Twitter / DEV
 
 👩🏼‍💻 Engineering Experience
 Frontend Engineer @ BRYTER (Dec 2020 - Present)
-No-code platform that enables professionals to build interactive applications.
+No-code platform that  professionals to build interactive applications.
 
 Founding member of BRYTER's design system team and continued to provide support and extend the component library
 Wrote code in multiple architecture layers, including the application core and integrations with external services
