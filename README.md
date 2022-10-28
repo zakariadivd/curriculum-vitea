@@ -1,4 +1,5 @@
 # curriculum-vitea
+zakariadivd.github.io/curriculum-vitea/
 Software engineer and journalist based in Berlin 🇩🇪
 
 Email / Website / LinkedIn / GitHub / Twitter / DEV
