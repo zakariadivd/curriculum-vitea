@@ -1,4 +1,4 @@
-# zakariadivd.github.io/curriculum-vitea/
+# curriculum-vitea
 
 Software engineer and journalist based in Berlin 🇩🇪
 
