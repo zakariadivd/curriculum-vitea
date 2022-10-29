@@ -1,6 +1,6 @@
 # curriculum-vitea
 
-<b>Contact</b> 
+<b>Contact</b><br> 
 Laan op Zuid 1340<br>3071AC,Rotterdam
 
 +0625361641
