@@ -38,7 +38,7 @@
                                 apparaat. Waarvan verbonden<br> 
                                 is met de Terminal.<br> 
 
-<h1>Werkervaring stage<h1><br>   
+<h1>Werkervaring stage</h1><br>   
    
   
                                 Rijkswaterstaat<br>
