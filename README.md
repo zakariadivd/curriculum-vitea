@@ -62,7 +62,8 @@
                                 mijn uren ben ik aangenomen.
                                 
                                 
-                                
+  singnature,
+  monopolys
                                 
                                 
                                 
