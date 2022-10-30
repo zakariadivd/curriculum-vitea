@@ -1,12 +1,12 @@
 # curriculum-vitea
 
-  <h6>Profile<h6> 
-  <h1>Behendig met computers, is zelfstandig en heeft 
+  <h1>Profile<h1> 
+  <h6>Behendig met computers, is zelfstandig en heeft 
       Doorzettingsvermogen. Werkt in Teamverband en is 
       Doelgericht. Vaardigheden: HTML, CSS, PHP, MYSQL,
-      JAVASCRIPT, OFFICE.</h1>   
+      JAVASCRIPT, OFFICE.</h6>   
  
-  <h6>Opleiding</h6><br>
+  <h1>Opleiding</h1><br>
                                         Mbo-4 – Applicatie en Media <br>
                                                 Ontwikkelaar<br> 
                 
@@ -28,7 +28,7 @@
                                          •	Economie N3<br>        
                       
                       
-<h6>Werkervaring</h6><br>
+<h1>Werkervaring</h1><br>
 
                                 Albert Heijn<br>
                                
@@ -38,7 +38,7 @@
                                 apparaat. Waarvan verbonden<br> 
                                 is met de Terminal.<br> 
 
-<h6>Werkervaring stage<h6><br>   
+<h1>Werkervaring stage<h1><br>   
    
   
                                 Rijkswaterstaat<br>
